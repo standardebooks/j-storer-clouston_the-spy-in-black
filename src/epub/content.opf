@@ -38,14 +38,15 @@
 		<meta property="authority" refines="#subject-3">LCSH</meta>
 		<meta property="term" refines="#subject-3">Unknown</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">A German submarine officer risks his life liaising with British informers during the First World War.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;During the Great War, German U-boat officer Conrad von Belke possesses the essential ingredients necessary for him to undertake intelligence work in the far north of Scotland: his bravery, intellect, and native-speaker facility in English. His mission is to provide information on movements of the British fleet in support of an audacious German submarine attack on their enemy. He is not acting alone, however, and his actions are guided locally by the experienced professional spy Adolph Tiel, who is in turn abetted by a most alluring and winsome “sister.”&lt;/p&gt;
+			&lt;p&gt;German strategy in the war of 1914–1918 made substantial use of U-boats in attacking merchant shipping, believing this would rapidly and decisively weaken the Allied forces. Publication of &lt;a href="https://standardebooks.org/ebooks/j-storer-clouston"&gt;Clouston’s&lt;/a&gt; novel in 1917 coincided with Germany’s policy of extending unrestricted U-boat warfare.&lt;/p&gt;
+			&lt;p&gt;J. Storer Clouston was a native of Orkney, the real-life setting for this spy thriller. While not as famous as &lt;a href="https://standardebooks.org/ebooks/john-buchan"&gt;John Buchan&lt;/a&gt;, Clouston’s work shares with that of his contemporary Scot a flair for dashing action and evocative locations. Such was the continuing appeal of &lt;i&gt;The Spy in Black&lt;/i&gt; that in 1939 it became the basis of a critically acclaimed film of the same name.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/33996</dc:source>
 		<dc:source>https://archive.org/details/spyinblack00clou/</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Spy_in_Black_(novel)</meta>
@@ -56,10 +57,11 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/J._Storer_Clouston</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n83124593</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<dc:contributor id="artist">W. L. Wyllie</dc:contributor>
+		<meta property="file-as" refines="#artist">Wyllie, W. L.</meta>
+		<meta property="se:name.person.full-name" refines="#artist">William Lionel Wyllie</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/William_Lionel_Wyllie</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n84116203</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Al Haines</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Haines, Al</meta>
