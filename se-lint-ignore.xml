@@ -2,6 +2,7 @@
 <se-lint-ignore>
 	<file path="chapter-4-2.xhtml">
 		<ignore code="t-005">
+			<line>34</line>
 			<reason>Quotation marks are scare quotes, not dialog delimiters.</reason>
 		</ignore>
 	</file>
